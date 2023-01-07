@@ -2,5 +2,5 @@
 
 Hi, I'm _Mark_! 👋
 
-I'm a sr. engineering manager @kustomer
+I'm a sr. engineering manager @facebook
 
